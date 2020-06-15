@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.haszeli.BasicCalc","c":"main","l":"main()","url":"%3Cinit%3E()"},{"p":"com.haszeli.BasicCalc","c":"main","l":"main(String[])","url":"main(java.lang.String[])"}]
